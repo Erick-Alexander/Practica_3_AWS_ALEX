@@ -1,0 +1,15 @@
+# Códigos de entorno virtual.
+venv/
+env/
+
+# Códigos de caché de Python para que corra bien.
+__pycache__/
+*.pyc
+*.pyo
+
+# Código de configuraciones locales de editor para que no tenga bugs.
+.vscode/
+.idea/
+
+# Formato de Imágenes/Gráficos generados por el código anterior.
+*.png
